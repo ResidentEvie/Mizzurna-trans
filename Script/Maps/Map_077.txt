@@ -1,0 +1,21 @@
+﻿<16 text entries>
+No answer... guess no one's there.<End>
+Yes, Mizzurna Falls Real Estate.
+<End>
+Are you looking for land to build?<End>
+Uh... no...<End>
+How may we help you?<End>
+I'm sorry, I dialled the wrong number.<End>
+Oh, sir? Sir, wait...?<End>
+Yes, Mizzurna Falls Real Estate.<End>
+How may we help you?<End>
+...<End>
+Are you looking for land to build?<End>
+N-No...<End>
+Perhaps, were you trying to reach
+Cohen Strasbourg?<End>
+Huh?<End>
+I thought so!
+We get a lot of calls intended for him.<End>
+I think you've got the last digit wrong.
+Double-check and try again, okay?<End>

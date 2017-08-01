@@ -1,0 +1,43 @@
+﻿<25 text entries>
+Hello! Who's calling?<End>
+Uh, did you work on the dance party
+committee?<End>
+Dance party? The one this month? Yep.<End>
+May I ask, was Kathy also a member
+of the committee?<End>
+Kathy Flannery?  Yes, she joined,  but
+she wasn't very cooperative.<End>
+How did she seem to you at the time?<End>
+Are you her friend?<End>
+Uh... sure...<End>
+She joined, but she basically did nothing.
+When I asked her why she bothered to
+join, what do you think she said?<New>
+"I'm rebelling against my father!"<End>
+What do you mean?<End>
+I don't know, either. But she said
+something like a party celebrating the
+full moon is like worshipping the devil...<New>
+or something... what a weirdo. But she
+also said there's a wall painting in the
+basement of her house showing the devil<New>
+worshipping the full moon.<End>
+What the hell?<End>
+Anyway, she was tough to figure out.
+That's all I remember about her.<End>
+Thanks.<End>
+See ya.<End>
+Yes! This is the hospital director's office.<End>
+Huh? The... hospital director's office...?<End>
+Yes, but Doctor Samuel is away from his
+desk at the moment. May I ask who is
+calling?<End>
+Grouver Hospital?!<End>
+Hello? Can you hear me?<End>
+Oh, sorry...<End>
+Is there something I can help you with?<End>
+N-no... it's fine... I'll call back later.<End>
+Why did I get through to the hospital
+director's office at Grouver Hospital?<End>
+Is there some connection between Kathy
+and Samuel...?<End>

@@ -1,0 +1,1231 @@
+﻿<517 text entries>
+Mizzurna Falls Noticeboard
+News
+Town Talk<End>
+Is nobody here?<End>
+Guess no one would be here at this
+time...<End>
+No response...<End>
+Is Cohen out?<End>
+Still asleep, maybe?<End>
+It's late... already asleep, maybe?<End>
+Matthew...
+Later, okay?<End>
+Good night.
+Matthew...
+Later, okay?<End>
+Don't come here again!<End>
+Honestly...
+What?! What now?!<End>
+Stop hanging about, get lost!<End>
+Hi, Matthew.
+ What's up?<End>
+Matthew...
+Thank you for coming...<End>
+Ugh, it's you...
+What do you want?<End>
+Hmm? You want something with me?<End>
+Oh, Matthew...
+What are you doing here at this hour?<End>
+...Anyway, just come on in.<End>
+Go ahead.<End>
+Hi there!!!<End>
+...<End>
+Matthew!
+Grouver Hospital!<End>
+Hello?<End>
+Matthew?<End>
+Yes, Morgan?<End>
+Yeah... where are you, right now?<End>
+I'm...
+Has something happened?<End>
+We... we found Emma.<End>
+?!
+Is...<End>
+Is she all right?!<End>
+Just... come to the forest.
+All right?<End>
+Yes!
+
+...I'll be right there!<End>
+December 31st, 11:41 PM
+Emma's body was discovered
+ in Barrows
+Forest.<End>
+Time of death: 11:30 PM.<End>
+According to Morgan, she was
+discovered 
+collapsed against the big
+tree.<New>
+Her expression was said to be
+"peaceful".<End>
+The autopsy revealed that, prior to her
+death, she had ingested a drug with
+hallucinogenic properties.<End>
+Her neck showed signs of strangulation.<End>
+The state police are treating her death
+
+as a homicide and have requested
+ the
+intervention of the FBI.<End>
+Emma was alive the whole time, but I
+wasn't able to save her...<End>
+Who could have strangled her?<End>
+Now I feel like everything I tried to do
+was pointless...<End>
+I wish I could go back to the 24th again...
+To the last time I felt her close to me...<End>
+Hey, Matthew...<End>
+If you're leaving, could you give me a
+ride home?<End>
+Take Winona home
+Say no<End>
+Thank you.<End>
+Sorry...
+I still have some stuff to do.<End>
+Wow... that's pretty cold of you...<End>
+Hee hee, just kidding.
+I can walk home, don't worry about it.<End>
+What?
+You've decided to take me home?<End>
+Weren't you going to take me home?<End>
+Ugh, forget it!
+I'll go home on my own!<End>
+I can just walk home.
+It's not far.<End>
+Thanks for the ride.
+You remember where I live, right?<End>
+Matthew, I'm sorry.
+I have to get home.
+<End>
+Huh?<End>
+I have something I have to do.
+Sorry.
+See you tomorrow.<End>
+Winona, do you have any idea what this
+key is for?<End>
+It's a locker key, isn't it?<End>
+What locker?<End>
+The lockers at school.<End>
+...Oh, right! I knew I'd seen it somewhere
+before.<End>
+What's with the key, anyway?<End>
+I found it in Emma's room and just
+borrowed it. If we check her locker,
+we might find some clues.<End>
+Really! Then, I'll go with you!<End>
+Oh, but actually, can we do it later?
+I have stuff going on right now.<End>
+Let's go to school!<End>
+Okay!<End>
+If we check the school, we might find
+some clues.<End>
+Yes?<End>
+Matthew...?<End>
+?! Isabella! It's Isabella, isn't it!
+Where are you?<End>
+My... my ring... if you show it...<End>
+What?! I can't hear you!
+What about a ring?<End>
+Matthew... please...<End>
+Isabella!
+...<End>
+She hung up... What's this about a ring?<End>
+"Emma's Diary"
+
+Which entry will you read?<End>
+December 21st (Thursday)
+December 22nd (Friday)
+December 23rd (Saturday)<End>
+December 21st (Thursday)<End>
+"Liz doesn't understand how I feel."<End>
+"I don't know what's right and what's
+wrong."<End>
+"What are we even alive for?
+Whenever I think about it,
+my head hurts."<End>
+"I'm all...
+alone..."<End>
+"Winona seems worried about me."<End>
+"But if she knew the real me...
+No... I don't want to think about it..."<End>
+It's just like James said...
+there was a whole other Emma I never
+knew...<End>
+I had no idea how she was feeling... <End>
+December 22nd (Friday)<End>
+"Isabella seemed so sad tonight."<End>
+"Her singing fills my heart with both
+sadness and joy..."<End>
+"But there's no light in her life.
+She's being controlled by that man..."<End>
+"Isabella needs help..."<End>
+Isabella...<End>
+There has to be some connection
+between her and Emma's
+disappearance...<End>
+Isabella needs help... what on earth
+does that mean?<End>
+December 23rd (Saturday)<End>
+"I feel depressed when I think about how
+I have to meet Mel at 9:00."<End>
+"Kathy says we need "it", but I don't
+want to depend on that kind of thing."<End>
+"I just want to feel some sense
+of relief..."<End>
+So Emma and Kathy WERE connected!
+They knew each other! But what's this
+thing that Kathy said they needed?<New>
+And they both met Mel at 9:00
+on the 23rd? But... where?<End>
+There's a meeting, so I'm off to the
+church. We're going to start searching
+the forest.<End>
+Some of the town elders are going to
+search the whole forest.
+If it was really a bear that mauled Kathy,<New>
+then we need to take care of the
+problem.<End>
+I'm going to meet with Cohen to discuss
+tomorrow.
+We have to do something about the bear.<End>
+I'm going with Cohen's hunch on the bear.
+You should talk to him if you have any
+questions.<End>
+Nozz's apartment is falling to bits.
+Everyone in town calls it "The Ruins".<End>
+I need to do some deep thinking.
+I'll be in my office for a while.<End>
+I'm exhausted.
+Another early start tomorrow.
+I'd better head home.<End>
+The bear hunt is about to start.
+You want to come? No, no, it's too
+dangerous.<New>
+No point coming, I won't let you past!<End>
+We caught the bear, but we can't rest
+easy yet.
+There's still too much we don't know.<End>
+I'm going for a steak.
+I need to keep up my stamina,
+or I'll never solve this case.<End>
+I just filled up on steak.
+You should keep yourself strong too,
+Matthew.<End>
+Something's happened at Sarah's.
+I have to head over there ASAP.<End>
+I'm going to talk to the eyewitnesses.
+If you notice anything, come and tell me.<End>
+Tell me anything you find out about
+Emma.
+No matter how insignificant it seems.<End>
+I'm beat.
+Matthew, you should go home, too.
+It's late.<End>
+Gotta keep up my stamina.
+I'm going to eat a steak the size of
+my head.<End>
+What an embarrassment.
+A burglary at the diner,
+and right in front of my very eyes!<End>
+I have to check something.
+I'm going to Dennis's.<End>
+Hmm...
+Have to marshal my thoughts...<End>
+Is Lorraine all right?
+I may go check on her. And have lunch,
+of course.<End>
+If you find any clues,
+bring them to me immediately.<End>
+Sigh...
+This is no good...
+I've got to get it together...<End>
+I hope we get a break in the case today.<End>
+Matthew, are you eating properly?
+You should be eating five times a day
+at your age.<End>
+I'm doing my best for Emma's case.
+I won't leave any stones unturned.<End>
+I'm going to Astin Farm to gather info.<End>
+I'm going to the bar to gather info.
+No, I'm not going there for a drink...<End>
+I've still got work.
+You head on home.
+...Not that you'll listen to me.<End>
+Don't wander around at night.
+Head straight home.
+...Ah, it's not like you'll listen, anyway.<End>
+I know you're worried about Emma,
+But don't go wandering around town
+at night.<End>
+I'm gonna go get breakfast.
+Join me?<End>
+It's the sixth day of the case...
+I'll find Emma. I'm staking my reputation
+on it.<End>
+Sigh...
+Tomorrow's the last day of the year...
+I'm going to find Emma safe and sound...<End>
+What are you up to so early?
+Can't relax?
+I'd like to kick back and take in a movie...<End>
+Have you eaten?
+Can't work on an empty stomach.<End>
+I'm going to correlate the case
+information.
+Come to me with any news.<End>
+I have to head to the hospital.
+Hmm? No, I'm in perfect health.
+I have to gather some information.<End>
+I want to watch that movie...
+And after I got the tickets, too...
+Guess I shouldn't complain...<End>
+Something's bugging me.
+I'm going to Astin Farm to do some
+digging.<End>
+Something's up there...
+Those people at Wolves...<End>
+Look at the time.
+I have to solve this case somehow.<End>
+There's something in the forest.
+My intuition as a police officer
+tells me so.<End>
+There's something in the forest.
+Nozz thinks it's another bear, but I don't.<End>
+I'm going to gather info on Isabella.
+Come to me with any news.<End>
+I'll be at the bar, gathering info.
+<End>
+What are you doing loitering around
+here? Go home if you don't want to
+spend the night in the cells!<End>
+I have to talk to Steve.
+I want to know how Sarah is.<End>
+Cohen's very anxious about the forest.
+I think there's something in there, too...<End>
+I'm heading to the hospital to check on
+something.
+Retracing my steps.<End>
+Matthew...
+Come to me with any news, no matter
+how small.<End>
+I'm going to canvass witnesses at Astin
+Farm.
+I know they're hiding something.<End>
+I'm heading to Wolves to check on 
+something. A bit later, though.
+Matthew, you be careful.<End>
+I'm going to correlate the case
+information.
+Something's bugging me...<End>
+The forest feels strange.
+I'll be there for a while.<End>
+I'm going to the church.
+There's a meeting to discuss what
+happened this morning.<End>
+We'll be searching the forest.
+We're meeting at the hut at 3:30.
+.
+.
+.I'm ready for battle!<End>
+I'm off bear-hunting.
+Oh, don't worry about me! I know the
+forest like the back of my hand.<End>
+Those bear footprints were huge.
+It's clearly a massive brute.
+Can't wait for tomorrow.<New>
+I'm gonna pop that bear right between
+the eyes!<End>
+Weird for a bear to be about this time
+of year. They get cranky when they
+don't get to hibernate.<New>
+Dangerous brutes...<End>
+Morgan's so lax.
+I suggested using one my special gun
+mods against the bear, but noooooo.<End>
+All righty! The morning has finally come!
+That bear is mine!
+You should be there for the bear hunt!<End>
+That bear! Ferocious. Never seen such a
+big one. Man, I really should have been
+a huntsman.<End>
+That bear had massive paws!
+Haven't seen such a big one in a while.
+...Hmm, yes...<End>
+What are you doing?
+Be a good boy and head on home.<End>
+I should tool up my guns some more.
+There may be more bears
+ around who've
+missed their bedtime.<End>
+I still think there's something in that
+forest. Maybe another bear.
+Ah, it's just my hunch. But, you know...<New>
+I have a sixth sense for this kinda thing.<End>
+Still out playing? I don't really min
+what you do, but it's late.
+Head on home to bed.<End>
+I feel... unsatisfied...
+I need to go hunting again.<End>
+What are you doing out on a night like
+this? Still playing around?
+How about studying for once?<End>
+This town has its share of bad folk.
+You be careful.<End>
+If you find out anything,
+you should let Morgan know right away.
+Okay?<End>
+This case gives me a bad feeling.
+I know you're worried about Emma.
+But don't get in too deep.<End>
+Helping with the case is all well and
+good.
+But don't act rashly.<End>
+It's not safe out at this time.
+Go home like a good boy.
+All right?<End>
+You're still in high school.
+You can't just run all over town at night.
+Go home like a good boy.<End>
+An early morning walk?<End>
+If you need anything, I'm always around.<End>
+I have some business with Morgan.<End>
+The investigation is stalling.
+All this worry over Emma...<End>
+I still have to check some things, so stay
+away from the forest.<End>
+I still need to do some deep thinking,
+about the forest...<End>
+You should head home.<End>
+It's dangerous. Go on home.<End>
+Anything bothering you?<End>
+What's up?
+You can confide in me.<End>
+There's a library book I wanted to read.<End>
+I feel so run down.
+Yeah, I'll stop by the hospital.
+Thanks for your concern.<End>
+How was the forest during my
+absence...?
+I feel responsible for it...<End>
+I've got a bad feeling...
+Matthew, are you all right?<End>
+They must be searching the forest for
+Emma around now...
+I wonder what's happening.<End>
+I think I'll go for lunch now.
+I want to talk to Lorraine, too.<End>
+The forest search is over for today...
+I wonder if they found Emma?
+I'm going to see Morgan.<End>
+I wonder if Sarah is feeling any better
+yet... I'm so worried about her.
+I need to think... I'm going to the park.<End>
+I'm so worried about Emma.
+Let's do whatever we can to help
+search, okay?<New>
+If you need me, I'll be at my house.<End>
+I wonder what Emma is doing now...if
+she misses everyone... I can't stand
+thinking about that...<End>
+I can't relax at home.
+I'm going to drop by the park first
+to think.<End>
+The more I think about all this, the less
+it makes sense.
+I didn't know Emma at all...<End>
+If we go to Kathy's funeral,
+we might find out some clues.<End>
+Kathy... was there something between
+her and Emma? I want to know...
+I have to go to the cemetery.<End>
+I'm going to the sheriff's department for
+an update on the case.
+If I find anything out, I'll let you know.<End>
+I'm worried about Sarah's condition.
+She was so distraught yesterday...
+maybe she's a little better today?<New>
+I'm going to go and see.<End>
+I'm worried about Sarah.
+Is she going to be all right?<End>
+Poor Sarah...
+I wonder who the burglar is?<End>
+This wind is freezing, Matthew.
+I think we should head home.<End>
+Morning, Matthew. I feel better after a
+good sleep. I'm going to the lake now.
+If you need me, come there.<End>
+This wind is chilling me to the bone.
+Aren't you cold, Matthew?<End>
+I'm curious about that book Emma
+was reading...<End>
+I'm going to the boat house.
+Let me know if you find anything new.
+See you.<End>
+I want to buy something at the store.
+I guess I'll chat with Nozz while I'm at it.<End>
+I came to borrow a book.
+And I wanted to talk to Liz, too.<End>
+I can't stay out too late. I have to head
+home.
+Call me if anything comes up.<End>
+I'll be in the library.
+Thanks for saying hi.
+You're always so... nice, Matthew.<End>
+Uncle Nozz is very funny!
+I'll be stopping by to chat with him again
+soon.<End>
+Did you find out anything about Emma?
+I'm going to the sheriff's department.<End>
+You're such a nice guy, Matthew.
+Somehow, I feel calmer whenever
+I see your face...<End>
+It's so late...
+Thanks for worrying about me...
+Call me if anything comes up.<End>
+I want to go to the park and think.
+I know it worries people, but...<End>
+Thank you for being my friend, Matthew.
+Sorry to bother you...
+I just wanted to talk to you...<End>
+I'll be at the hospital for a while.
+Call me if anything comes up.<End>
+I want to ask Wolf something at the bar.
+I'm not going to touch alcohol, though.<End>
+Shut up!
+Quit tryin'a talk to me!!!
+I ain't interested in talkin' to you.<End>
+Leave me alone!
+You're pissin' me off! Get lost!<End>
+What the hell do you want?
+You stalkin' me or somethin'?!
+You make me sick.<End>
+Leave me alone!
+I ain't got nothin' to say to you!<End>
+It's a free country!
+I can go where I want!
+I don't gotta tell you nothin'!<End>
+I'm going to the diner!
+You got a problem with that?<End>
+I'm goin' where I WANT to go.
+Don't even think of followin' me!<End>
+Leave me alone.
+I ain't got nothin' to do with Emma!<End>
+You're a pain in the ass!
+I'm in a hurry here!<End>
+I'm just havin' a drink at the bar!
+Quit judgin' me.
+<End>
+Quit talkin' to me!
+It's late! You're freakin' me out.<End>
+Pah!<End>
+I'm feelin' good right now.
+Don't kill my buzz, man.<End>
+I wanna ride my bike right on into that
+sheriff's department.<End>
+None of your business where I'm goin'!
+Quit stalkin' me.<End>
+I can do what I like!
+I don't hafta explain myself to you!<End>
+So, I got collared by that pig.
+Havin' yourself a good laugh?
+*spit*<End>
+Shit!
+I can see you laughin' at me!<End>
+Tch... I don't wanna see your smug face.<End>
+Matthew... you think my father killed
+himself, too?
+Shit!!!<End>
+That pig called me in again.
+Screw everything!!!<End>
+Hmph! Stop followin' me!
+It's a free country! I can go where I like!<End>
+I have to talk to Lorraine!
+Get lost, I ain't got no business with you.<End>
+What are you, a cop?
+Quit interrogatin' me!
+What's it to you if I have a drink, huh?<End>
+It's none of your business where I sleep!
+Quit investigatin' me!<End>
+Stop following me!!!
+You wanna suck on my fist, huh?!<End>
+Why do I gotta go runnin' whenever that
+pig calls me?!
+Gives me a headache.<End>
+Sheriff Piggy Morgan really pisses
+me off.
+You too, Matthew.<End>
+Leave me alone.
+I ain't got nobody now.
+So just leave me be.<End>
+The year's up.
+I'd rather be talkin' to anyone
+but you right now. Bye.<End>
+Winona seems so put-together, but I
+know she's suffering inside.
+Matthew, be her friend, won't you?<New>
+Just listen to her when she wants
+to talk.<End>
+I'm sorry... I have to go visit my
+grandmother now. If you want to talk
+about Emma, let's do it another time.<End>
+Don't go outside late at night.
+It's not safe, not until this case has
+been solved.<New>
+Go home for today, okay?<End>
+Matthew... There's a curfew, you know.
+Living by yourself at your age means
+you have to be disciplined.<End>
+I have work now.
+Why don't you come study at the library
+sometime?<End>
+Matthew...
+I wonder how Winona is doing?
+She keeps everything all bottled up.<End>
+I need to think...
+I'm sorry.
+Matthew...<End>
+I go to church regularly. I'm not trying
+to push religion on you, but why don't you
+come and pray sometime, too?<End>
+I'm going to visit my grandmother now.
+She's a good person, really.
+A lot of people don't get that about her.<End>
+Go home, please.
+It's not safe at night.
+And it's better to be safe than sorry.<End>
+You're still out?
+There's a curfew, you know.
+Go home, Matthew.<End>
+It's nice to be up early!
+Don't you agree, Matthew?<End>
+Good morning, Matthew!
+You always seem so well. I'm glad.<End>
+It's tiring visiting my grandmother at
+the hospital every day. You should come
+and visit sometimes, too.<End>
+Oh, hello Matthew.
+I was deep in thought; I didn't spot
+you there.<End>
+Matthew, please be careful. I've seen
+you bash into walls with that car of
+yours. Please drive carefully.<New>
+I already have one person in hospital I
+have to visit. Matthew, you can come
+and visit with me if you like.<End>
+Matthew, I've seen you driving in the
+middle of the road.
+Please obey traffic rules.<End>
+Good morning, Matthew. It's gonna be a
+brand new year from tomorrow.
+But I can't get excited somehow.<End>
+I just keep thinking about Emma...
+
+It's almost been a full week now...<End>
+I have to do some shopping.
+Nozz's store has all kinds of products.
+It's very convenient.<End>
+I go to visit my grandmother
+every single day.
+She's important to me.<End>
+I wonder how Emma's case is developing.
+I have to ask Morgan for an update.<End>
+There's a meeting at the church.
+I wonder what will be discussed.
+It seems very important...<End>
+There's a search of the forest going on
+now. I'd like to help Morgan and the
+other officers any way I can.<End>
+As a father of a daughter myself,
+this case really upsets me.
+I hope it comes to a resolution soon.<End>
+What a horrible incident.
+I hope Morgan and Hudson can sort this
+out quickly.<End>
+Listen, Matthew. I'd like you to head
+straight home. I know you're almost a
+man, but it's dangerous at night.<End>
+I don't want Winona walking around
+town.
+Not until this case is resolved.<End>
+Bears, burglars...
+What's going on in this town?
+This town... it's...<End>
+Winona's completely down.
+I'm worried about her.
+I just want her to be herself again...<End>
+Winona is the same age as Emma and
+Kathy were. I won't rest easy until this
+case is sorted out.<End>
+Matthew, I'll give you a free tank of gas.
+In exchange, please watch out for
+Winona.<End>
+I hear you're assisting with the
+investigation.
+Don't do anything dangerous.<End>
+I feel better when Winona's safe at
+home.<End>
+I just want Winona to cheer up...
+She's just not herself...<End>
+There's a meeting at the church now.
+You're just a kid, so you can't attend,
+I'm afraid.<End>
+Kathy's dead...
+Emma's missing...
+It's all awful.<End>
+I envy you young kids.
+Off to have fun?
+If only I was 10 years younger.<End>
+You're up early.
+Me? 
+*yaaAAawwWn* ...I'm sleepy.<End>
+*yaaAAawwWn*
+Work's finally over.
+I want to do something fun.<End>
+It's gonna be another cold one today.
+Ugh, it's freezing!
+Come see me if you catch a cold.<End>
+Off for hijinks?
+Ah, young kids today.
+I envy you all.<End>
+*yaaAAawwWn* Ugh, can't stop yawning.
+By the way...
+Do you know any cute chicks?<End>
+The year's about to end.
+Please, let me have a woman next year!<End>
+I'm going to the bar to get my drink on.
+Ah alcohol, my old friend.<End>
+Having some evening fun?
+You're a sprightly young man, eh?
+Well, good night.<End>
+Come see me when you have a spare
+moment. Don't hold back.
+Come to me with any worries.<End>
+I have to check something at the library.
+Reading is important.
+I'll lend you a book some time.<End>
+No, I'm not skipping work.
+I'm not the head doctor.
+Hahaha, forget I said that.<End>
+I'll be having a drink at the bar again 
+tonight. If I don't have my evening drink,
+it feels like I haven't finished work.<End>
+It's quite late.
+I'll be heading home.
+Aren't you going home, too?<End>
+I have to check something at the library.
+Hmm? It's for my research.<End>
+You want to know what I'm doing now?
+I'm going to investigate something that's
+been on my mind.<End>
+Good night, I'm quite tired.
+Staying up too late will mean a tough
+start tomorrow.<End>
+Good morning! Did I sound convincingly
+awake? I think I drank too much last
+night. You seem fine though, Detective.<End>
+I intend to spend the day in research.<End>
+I hope I can make some progress today.<End>
+Sigh...
+It's just so obscure...
+Huh? Oh, just talking about my research.<End>
+It's a full moon tonight.<End>
+And the year's ending...<End>
+*mumble* *mumble*<End>
+What?
+Don't follow me.<End>
+You've got a cell phone, haven't you?
+Don't use it while you're driving,
+it's not safe.<New>
+If you get a call while driving,
+pull over before answering.<End>
+You drive, right? Watch your gas gauge.
+When the meter reaches 0, your speed
+will plummet.<End>
+Darn, I should have picked up one of
+those maps from the sheriff
+department's floor.<New>
+I just got to town, and I don't know
+where anything is.<End>
+I travel to many towns across the
+country. When you're just passing
+through, it's hard to find the good<New>
+places in town. I just hop in my car and
+drive around. I usually find at least one
+cool joint that way.<End>
+Evening! I'm off to bed.
+I just got to this town.
+I don't know where anything is.<New>
+I'm gonna drive around town tomorrow
+and acclimate myself.<End>
+What? Did you want something?
+Is there something on my face?<End>
+I look grumpy? Well, yeah, I am.
+You would be too, if you got stood up
+for a hot date!!!<End>
+I'm gonna go home.
+I'm exhausted.<End>
+Isn't the telephone amazing? You can
+find out where anyone is, simply by
+calling them!<New>
+An amazing invention.
+The telephone really saves a bunch
+of time and legwork.<End>
+Hello.
+It's sunny today, but it's still freezing.<End>
+Hello.
+Looks like snow again tonight.<End>
+I wonder if there'll be a blizzard tonight?<End>
+I feel like having a drink tonight.
+Maybe I'll go to the bar.
+I think it opens from 8pm.<End>
+Good morning!
+I came to pray!
+Would you care to join me?<End>
+I went to the park after dark the other
+evening, and this weird old guy
+challenged me to a fistfight.<New>
+He was ranting about battles and how
+he was gonna make a fighter outta me.
+It was almost scary.<End>
+Hello.
+I'm off to the hospital. I'm not sick or
+injured or anything, though.<End>
+No good...
+I got turned away at the door again
+today... Oh well...<End>
+Huh? Who are you?<End>
+It's freezing. Who are you?<End>
+I'm going to question residents.
+Someone must have seen Emma.<End>
+I still can't believe what's happened...
+If you think of anything, come and see
+me.<End>
+You drive, right, Matthew?
+Make sure not to get in any accidents.<End>
+If you find out any information on the
+case, report to Morgan or myself
+at once.<End>
+Don't get involved in any danger.
+Be especially careful at night.<End>
+Don't walk around late at night.
+Don't you know there's a curfew?
+<End>
+There was a burglary at the Rowlands'.
+I have to head over there right now.<End>
+If you spot anyone suspicious,
+contact us right away.<End>
+This was always such a peaceful town...
+We have to solve this case,
+and put
+things back the way they should be.<End>
+A robbery just happened at the diner.
+First yesterday's burglary, now this.
+What the hell is going on?<End>
+I'm going to look for the diner robber
+now. Let me know if you spot anyone
+suspicious.<End>
+Matthew...
+Thank you, for your concern.<End>
+You're a nice boy.
+I wish more young people could be
+like you.<End>
+Matthew.
+Are you living the way you should be?
+That's all part of obeying God's will.<End>
+Matthew. The Lord has given me my
+orders. Those sinners...
+I have to save them before it is too late.<New>
+I am the only one who can...<End>
+What are you doing here?
+You shouldn't walk around at night.
+Go home at once.<End>
+Have you come to pray for Kathy?
+<End>
+Matthew...
+I strive to save the souls of sinners.
+What about you?<End>
+Matthew...
+You shouldn't walk around at night.<End>
+Matthew...
+We must not lose ourselves in grief.<End>
+Matthew...
+The Lord has given me my orders.
+Those sinners...<New>
+I have to save them before it is too late.
+I am the only one who can...
+<End>
+Matthew...
+What are you doing here at this time?
+Go home at once.<End>
+Matthew... have you noticed some bad
+folk around town recently?<End>
+Matthew... do you know what your
+purpose is, in life?
+Why are you in a place like this?<End>
+The year is almost over.
+I must save the sinners...<End>
+So much money.
+So why won't the president rebuild?!<End>
+I'm gonna let him know how I feel!
+Then I'll MAKE him rebuild!
+No more excuses!<End>
+There's always tomorrow!
+I KNOW the president will cave, and
+rebuild in the end!<End>
+Meeting at the church.
+Pain in the ass.
+Tch...<End>
+Noisy busybodies.
+I'm a busy man!<End>
+What!
+I can go where I want!
+None of your business!<End>
+Don't you follow me!
+Tch...<End>
+I'm busy! Don't talk to me!<End>
+Ugh, so annoying!
+Get lost!<End>
+Get lost!
+I don't have time to talk to you!<End>
+What?! I'm not giving you any money!<End>
+Ugh, what?
+You think my face is funny?!<End>
+Leave me alone.
+Quit playing detective, it's pathetic!<End>
+Quit bothering me!
+Stop... investigating me!<End>
+Ugh, get lost!
+I don't feel so good right now.
+I don't wanna talk.<End>
+You again...
+I'm hungover and I have a headache, 
+so keep your voice down.<End>
+Don't you ever quit?
+I'll sic my dog on you!<End>
+Hey! I feel pretty good today!
+But I'm still not gonna give you any
+money.<End>
+Hey! What's up?
+Be careful of cars!<End>
+Hey! Wash your clothes for once.
+How long are you gonna wear the same
+ones for?<End>
+Those noisy farm workers have finally
+piped down.
+Good.<End>
+What are you looking at?
+You think I'm funny?!<End>
+Tch!
+That stupid son of mine.
+It's like he's TRYING to shame me.<End>
+Huh?
+None of your business where I drink.<End>
+Don't follow me!
+None of your business where I go!
+<End>
+Hmm? I seem odd?
+Are you smirking at me, Matthew?<End>
+I have to go. To the sheriff's department.
+You want go instead?<End>
+You and I have nothing to discuss.
+Why do you insist on talking to me?<End>
+You think you're a detective or
+something? Why the hell should I
+answer any of your dumb questions?<End>
+Why do I have to suffer like this...<End>
+Tch...
+Why does nothing go the way I plan it?<End>
+I don't give a damn where you go.
+Do what you want.<End>
+You should head home, boy.
+Don't wanna get eaten by a bear, do ya?<End>
+You're up late, huh.
+Wouldn't you rather be tucked up in bed?<End>
+.
+.
+.
+Tch...
+What?!<End>
+You're up early, boy.<End>
+If you don't want anything, then get lost.
+Go away, go on, shoo.
+<End>
+I like to be alone.
+Don't worry about me.<End>
+You're always roaming around.
+Don't you have a family?<End>
+Head by the bar?
+Can't serve you any alcohol, though.<End>
+You're up way past your bedtime, boy.
+Impressive.<End>
+...
+Ugh, be quiet.
+I don't feel so good right now.<End>
+I'm tired from work.
+Sorry, but I can't chat with you right now.
+Find someone else to talk to.<End>
+Sorry, urgent business.
+I'm in a hurry.<End>
+No time to talk.
+Another time.<End>
+I'll get in trouble if I have kids in my bar.
+Not that I mind personally, though.<End>
+None of your business where I go...
+Sorry...<End>
+I have business.<End>
+I have to work.
+Don't want to be late.<End>
+I'm exhausted.
+Can you come another time?<End>
+Exhaustion carries over to the next
+day's work.
+Can you let me rest?<End>
+I can't be late for work.
+Excuse me.<End>
+I don't feel like talking right now.
+Please leave me be...<End>
+I have to hurry home.
+I'm sorry.
+Excuse me.<End>
+I have work.
+I don't want to be late.<End>
+It's none of your business where I go...
+I'm sorry...<End>
+I'm sorry...
+I don't really have time.
+Can I go now?<End>
+I want to be alone to think about nothing.
+I guess you wouldn't understand...<End>
+Sigh...
+.
+.
+.
+I'm tired...<End>
+...I'm sick of this life...
+Sigh...
+Oh, nothing.<End>
+I can't be late for work.
+Excuse me.<End>
+Horrible things just keep on happening...
+...That's what I keep thinking.<End>
+I hate to leave Sarah alone, but I have
+that town council meeting now.
+The mayor has to be there...<End>
+I wonder what she's doing right now...
+Emma...
+I'm so worried...<End>
+I'll pray night and day, 
+if it'll help us
+find Emma.<End>
+If only I'd been more attentive,
+maybe this wouldn't have happened...<End>
+I think Sarah needs some fresh air...<End>
+Sarah always cheers up a little when
+you come to visit.<End>
+How horrible, a burglary at our house...
+Makes me feel so... violated.<End>
+I'm concerned about Sarah.
+I have to hurry home.<End>
+Emma...
+I hope she's in good health...<End>
+What is she doing right now?
+Emma...
+I hope she's not cold...<End>
+Where could she be?
+Emma...
+I hope she's not suffering...<End>
+I know Emma will be found.
+I have faith in Morgan.<End>
+I'm so grateful for your concern,
+
+Matthew.<End>
+I'm going to have a drink at the bar.
+Cold days like this make me want
+a drink.<End>
+It's getting late, Matthew.
+I'm going to head home.<End>
+Just out for a walk.
+Don't mind me.<End>
+I need a drink.
+Care to join me, Matthew?
+Just kidding.<End>
+Is that the time?
+Aren't you tired, Matthew?
+I'm going to head home.<End>
+Never mind where I'm going.
+Don't follow me.<End>
+I drink, and I forget everything.
+I feel like nothing matters anymore...<End>
+I'm... so drunk.
+Hmm...<End>
+Sigh...
+The year's almost up.
+It's so cold...<End>
+I feel like gazing out across the lake.
+You don't think that sounds like
+something I'd do?<End>
+I need a drink.
+Hehe...<End>
+Shouldn't be out late at night!
+I'm going home, you know.<End>
+The last day of the year...
+Can't get through without a drink...<End>
+That... idiot.<End>
+He's such a moron... honestly...<End>
+It's the end of the year.
+And I still can't figure that jerk out.<End>
+Sigh...
+This is our busiest time.<End>
+Have you seen the noticeboards?
+They're updated with the latest
+developments in town.<New>
+They're really informative.<End>
+Oh man, I have no idea where to go next...
+I'm always like this. At times like this,
+I just check a map. It's all you can do.<New>
+Driving around town searching for stuff
+takes up so much precious time...
+<End>
+Hello.
+Is Doctor James here?<End>
+Hello.<End>
+Good morning!
+I'm off to the church.<End>
+Good afternoon!
+Just out for a solitary stroll.<End>
+Good morning!
+Time to work hard again today!<End>
+Good afternoon!
+Don't get in the way of my work.<End>
+Good afternoon!
+<End>
+I'm off to lunch.
+Oh, but first, I need to get gas.<End>
+...Oops...
+That's not the right number...<End>
+Wrong number.<End>
+Whoops.<End>
+...
+...<End>
+... No one's picking up.<End>
+Liz Holden (26)<End>
+A high school teacher who is Matthew,
+Emma and Winona's homeroom teacher.<End>
+She treated Emma like a little sister,
+and she was one of the few people
+Emma could open up 
+to.<End>
+Isabella (27)<End>
+The resident singer at Bar Wolves.
+She often sings the song
+ "Eternal",
+inspired by a dream she had long ago.<End>
+Dennis Astin (57)<End>
+As the owner of Astin Farm, which
+powers the  local economy, he's the
+most 
+powerful man in town.<End>
+He is the father of Mel, Matthew's
+classmate.<End>
+Morgan Stein (32)<End>
+The town sheriff. He's in charge of
+keeping the people safe. He has a strong
+sense of justice,<New>
+and is someone you can rely 
+on.<End>
+Captain Nozz (60)<End>
+Matthew's uncle (for all intents and
+purposes) and guardian, he runs the
+general goods store in town.<End>
+He lets his nephew live behind the store.<End>
+Father Barton (56)<End>
+As the priest at the church in town,
+many of the townspeople trust him
+completely.<End>
+He adopted Kathy from an orphanage
+and raised her as his own.<End>
+James Loloma (35)<End>
+A psychiatrist at Grouver Hospital
+specialising  in counselling.<End>
+His interest is in researching the
+indigenous tribes of this region.<End>
+Do you know what these are?<End>
+Hmm? What's this?<End>
+Aren't these drugs from this hospital?<End>
+All our drugs have the Grouver mark
+on them. <End>
+Can you find out what they are for me?<End>
+Huh? That's not so easily done,
+you know... <End>
+Please...<End>
+Can't be helped, huh...
+
+I guess I'll ask James or Keith...<End>
+Is James knowledgeable about
+pharmaceuticals, too?<End>
+He used to be a pharmacology specialist.<End>
+Is that so?<End>
+Well, if I find anything out, I'll let you
+know.<End>
+Enter a phone number.<End>
+It's ringing.<End>
+A photo developed from the camera in
+Emma's locker.<End>
+It shows a no entry sign in
+Barrows Forest.<End>
+It's a scrap of paper I found in
+Mel's room.
+It says: 
+"9pm, Motel".<End>
+9pm, Motel... This is it!
+Mel and Emma met at the motel on the
+night of the 23rd!<New>
+I have to check the motel guestbook.
+It might be under Emma or Kathy's name
+if it's not under Mel's.<End>
+It's a Wolves Flyer, 
+found in Kathy's
+locker. On the back,
+"24th, at woods, with Emma" 
+is written.<End>
+Hello! 
+You're through to the 
+Auto Garage!<End>
+Has your car run into some trouble?
+I don't need help.
+Pick me up.<End>
+Yes, sir!
+If your car breaks down,
+
+call us any time!<End>
+Yes, sir!
+ We'll come pick your car up
+straight away!<End>
+Your car's ready. 
+Where should we
+deliver it to?<End>
+In front of Captain Nozz's store
+In front of the Sheriff Department
+More<End>
+Gas station
+Grouver Hospital parking lot
+More<End>
+Church parking lot
+Forest parking lot
+More<End>
+Astin Farm
+Motel parking lot
+More<End>
+Yes, sir!
+We'll deliver your car right away!
+Thank you!<End>
+Hmm?
+What?<End>
+Hmm?
+What?<End>
+What's up, Matthew?<End>
+Hmm...
+You need something?<End>
+What?
+Don't look at me!<End>

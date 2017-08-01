@@ -1,0 +1,539 @@
+﻿<246 text entries>
+Bed:<End>
+I can't sleep now.
+Maybe I should take a shower before
+Winona comes over.<End>
+A photo of Emma, Winona and me when
+we went camping.<End>
+Emma really wasn't her usual self last
+night. I can't exactly describe it, but she
+seemed so alone...<End>
+I wonder what's happened to her?<End>
+Books by Shakespeare, Goethe, etc.
+I didn't buy these.
+My dad bought them all for me.<End>
+"To be, or not to be?"
+...How come it opened at that page?<End>
+The secondhand radio cassette player
+I got from Uncle Nozz.<End>
+I've had it for years but it hasn't broken
+yet.<End>
+"Eternal"
+
+Press play to listen to music!<End>
+There's a notebook in here.<End>
+Will you take it with you?
+Yes
+No<End>
+About the Notebook<End>
+The notebook serves two functions.<End>
+1. Record of character information
+2. Record of phone numbers<End>
+To use the notebook, open the item
+window with  △ and select the notebook.<End>
+Select the desired feature and press ○ <End>
+Information in the notebook will be
+updated as you make progress in the
+game.<New>
+Phone numbers will be automatically
+recorded after successfully connecting
+a call once.<End>
+You got the
+Notebook<End>
+I guess I don't need this now.<End>
+There's a notebook inside.<End>
+I have to go and meet up with Winona
+now, though.
+It's not like I'm gonna need this.<End>
+Empty cans are lined up for airgun
+practice. Nozz got me started with
+shooting, and I'm totally into it now.<End>
+Hmm, no letters right now.<End>
+Huh? Looks like I've got a letter.<End>
+Huh? Looks like I've got a letter.
+It's a postcard showing the Statue of
+Liberty... Hmm, Dad?<End>
+It's from Isabella!<End>
+Matthew
+Thanks for the other night.<End>
+Your kindness has restored some of my
+faith in humanity.<End>
+So don't worry.
+I can take care of myself somehow.<End>
+I've included my song with this letter.<End>
+I wonder why Emma liked the song
+so much...
+Anyway, have a listen.<End>
+I don't know if there's any connection
+between the song and her
+disappearance, though...<End>
+Also, don't come to my place again.
+I'll contact you.<End>
+Matthew...
+it's been so long since I've felt any
+human kindness...<End>
+Isabella...<End>
+You got the
+tape of "Eternal"<End>
+Hmm?
+There's a flyer in here.<End>
+Auto Garage
+For all your vehicular needs!<End>
+If you break down, just call us free
+at △△△△!<End>
+This is a general goods store, so there's
+a variety of stuff on sale.<End>
+Batteries, cassette tapes, even
+lightbulbs.<End>
+It's also partly a recycle store, so
+there's lots of old electronics on
+sale too.<End>
+TVs, radios, speakers...
+Flashlights, shovels, spades...
+All kinds of random stuff.<End>
+A bulletin board.<End>
+Fishing tools.
+Hooks, line, floats...<End>
+Fishing tools are sold here.<End>
+Canned goods for emergency stocks.<End>
+Canned goods.<End>
+Lighters on sale.<End>
+Don't tell me you want a lighter! Why?<End>
+I just kinda want one.<End>
+But not for smoking, right?
+You'll smoke over my dead body!<End>
+All right, all right.<End>
+Uncle's not around, right...?<End>
+This could come in handy at some point.
+I'll just take a lighter.<End>
+I'll just leave some money in the cash
+register.<Unk70><End>
+You got the
+Lighter<End>
+Morgan's waiting outside.<End>
+Different brands of cigarettes
+on display.<End>
+PROLOGUE
+The story begins<End>
+December 25th, 8:11 am<End>
+...Hello?<End>
+Matthew?<End>
+...Winona, is that you?<End>
+Yes.<End>
+Why are you calling me this early?<End>
+I just got a phone call from Sarah...
+I think something's happened to Emma.<End>
+Winona, calm down.<End>
+Emma's mom called me...
+and asked me if I knew where Emma is.<End>
+What do you mean?<End>
+I don't know...
+but she hasn't seen Emma since
+last night.<End>
+Last night, you said?<End>
+...Why, did something happen?<End>
+...No, it's nothing.<End>
+Anyway, let's meet up and talk about this.<End>
+Emma's been strange lately, don't you
+agree?
+I'm so worried about her...<End>
+It's okay. Don't worry.<End>
+Okay... well, I'm coming over now.
+Sarah's voice was shaking like crazy.
+I wonder if something bad happened<New>
+to Emma...<End>
+This was taken this summer,
+when Emma, Winona and I had that
+barbecue...<End>
+If Emma was a normal kind of girl
+Winona wouldn't be this worried
+about her.<End>
+Emma doesn't have many friends, and
+sometimes you just don't know what
+she's thinking.<End>
+Just like last night...<End>
+Last night Emma really did seem
+different. When I tried to talk to her,
+she was a million miles away.<Unk70><End>
+But still... She looked so beautiful.
+She looked more beautiful than ever
+last night.<End>
+I wonder if something's happened to
+her...<End>
+Emma seemed so happy, back then.<End>
+I wonder if something's happened
+to Emma...<End>
+That's enough, Rodriguez! Behave!<End>
+Oh, you were so cute when you were
+little, as well!<End>
+Why are dog years different to human
+years? In the same year, you age so
+much faster than me. So strange.<End>
+Man...
+You have no idea what's going on right
+now, do you?<End>
+What?<End>
+It's a postcard showing the Statue of
+Liberty...
+Hmm, Dad?<End>
+Dear Matthew
+So now you're 18 years old. Time flies!
+You'll graduate from high school soon<New>
+and go out into the world.
+I'm sorry we couldn't live together as a
+family, but the reason I didn't bring you<New>
+to New York is because I wanted you to
+live in the town I was born and raised in.
+The sights and sounds of a good childhood<New>
+will be with you for the rest of your life,
+after all. I'm grateful to Uncle Nozz for
+taking you under his guardianship.<New>
+I know that it was tough for you when
+you were a kid, but I'm sure this has
+helped you grow and mature in a way<New>
+other kids your age haven't.
+All I want is for you to find your own
+path in life.<New>
+You have your whole life ahead of you
+and so much to look forward to.
+I believe in you, my son, but my one<New>
+warning is not to believe only in what
+you can see. I think you'll understand
+what I mean.<New>
+Never forget that your mother and I
+love you very much.<End>
+It's true that things were rough when I
+was younger, but I really love this town.
+When I was a kid, this town was my<New>
+whole world. Even though it's such a
+small town... As I get older, the world
+just seems to get bigger...<End>
+Matthew!
+Come into the store for a moment.<End>
+Good morning Matthew.
+Sorry to bother you this early in the
+morning.<End>
+You don't like shaking hands?<End>
+Is this about Emma?<End>
+Oh, so you've already heard.<End>
+Did something happen to Emma?<End>
+We received a call from Emma's mother
+asking us to search for her.
+Any ideas?<End>
+No...
+I saw Emma last night, but she seemed
+different from usual...<End>
+In what way?<End>
+I can't really explain it well, but...<Unk70><End>
+She's probably just at a friend's place.
+What's all the fuss about?<End>
+In Emma's case, it's just a search
+request, but...<End>
+What are you talking about?<End>
+Do you know Kathy Flannery?<End>
+Flannery...?
+Father Barton's girl?<End>
+Oh, that fanatical Father Barton's
+acolyte?
+Little Miss Church?<End>
+We're not in the same year at school so
+I've never really spoken to her.
+Has something happened to Kathy?<End>
+She was found badly injured in Barrows
+Forest around 6am this morning.<End>
+The atmosphere changed in an instant.
+No one who lives in this town could ever
+expect this.<End>
+Alive, but lifeless... Cohen found her
+unconscious. If he'd have been even a
+few minutes later it might have<New>
+been too late.<End>
+What happened?!<End>
+She seems to have been attacked by
+a bear...<End>
+A bear!!! It must have failed to go into
+hibernation.
+They get violent when that happens.<End>
+Hold on a minute! Why was she in the
+forest? And has this got something to do
+with Emma?<End>
+It's only natural to make that
+assumption. But we don't have much
+of anything to go on just yet.<New>
+Plus, the suspicious thing about
+Kathy is...<End>
+Hey, Morgan! You need the bear caught,
+right?
+I'm your guy! Leave it to Nozz!<End>
+...In any case, can you come to the
+sheriff's department? We can talk in
+more detail there.<End>
+Okay. I'm curious about all this, too.<End>
+I'll be waiting in the car.<End>
+Uncle, when Winona gets here can you
+tell her I've gone to the sheriff's
+department?<End>
+Sure.
+What a mess this all is...<End>
+Matthew, there you are.
+Doctor James has come especially to see
+you.<End>
+Hey. Sorry to just turn up unannounced.<End>
+James... is there something you want
+with me?<End>
+No, nothing in particular. I just thought
+I'd lend you that book on the ritual.<End>
+I see. Let's go to my room.<End>
+All right.<End>
+I'll put the book here.<End>
+Hmm, aren't you reading some quite
+difficult books, here?<End>
+I'm not particularly interested in history.
+My father bought them all for me.<End>
+I like history.<End>
+I see.<End>
+Your sense of values is very modern.<End>
+However, modern values are built upon
+the values of yesteryear.<End>
+And the values of yesteryear, were built
+upon values from even further back.<End>
+By educating oneself on human history,
+you can enjoy the knowledge of a
+thousand lifetimes.<End>
+You're as difficult to understand as
+ever.<End>
+That's because I think difficult thoughts.<End>
+Anyway, how's Isabella?<End>
+She still hasn't regained consciousness.<End>
+I see.<End>
+Isabella... I think that whoever comes to
+visit her, will be someone vital to this
+case.<End>
+If I was the criminal, I wouldn't let
+Isabella linger on without finishing
+her off.<End>
+I guess you're right.<End>
+Well, there's a deputy on guard outside
+her room, so I'm sure there's no need
+to worry.<End>
+I guess I'll go back to the hospital.
+See you then.<End>
+Thanks for the book.<End>
+Cigarettes should do for Barbara's
+birthday present.<End>
+Which ones should I choose...<End>
+'Blue in the Face'... yes, these are a
+popular brand. Let's go with these.<End>
+I didn't know you smoked.<End>
+No, I'm still a minor.<End>
+There's this persistent old lady at the
+hospital. These are for her.<End>
+Oh, Barbara? She's a heavy smoker.<End>
+You know her?<End>
+Yeah, well. I kinda feel sorry for her.
+Have to make allowances for her,
+considering.<End>
+Why, what happened to her?<End>
+I shouldn't be gossiping. It happened
+over forty years ago, after all.<End>
+Forty years ago?<End>
+Pretend I didn't say anything.<End>
+You got
+Cigarettes<End>
+So, if there's no link between Emma and
+Kathy, then Emma must be missing for
+a completely different reason...<End>
+Bears, at this time of year... and who
+knows if there's a madman on the loose,
+too. Dangerous times.<End>
+Just off on a quick bear hunt!
+Oh how I do love messing about in
+the forest.<End>
+I knew it, I knew a bear was about.
+Shotgun time.
+Or should I bring my customised gun?<End>
+Matthew, check your mailbox more often.
+Don't let it get jammed with mail like
+last time.<End>
+There may be more bears about.
+I should tool up my guns a little more.
+Hmm...
+<End>
+I wanna tinker with my guns.
+First, get that part, and then...
+Mumble mumble...
+<End>
+I think there's more out there in the
+forest. Maybe even another bear.
+Oh, how I'd enjoy that...<End>
+If I'm gonna tool up my gun...
+I'll need to order special parts...
+Mumble mumble...
+<End>
+Man, I wanna tinker with my guns.
+Oh how I love hunting.<End>
+Help me out in the shop occasionally,
+willya? It's the least you could do, lodger
+buddy. No mooching!<End>
+Man, my shoulders are stiff lately!
+I wanna get out hunting and loosen up.<End>
+I feel like another hunt's in order.
+I can sense a presence in the woods.
+Yep, I smell another bear...<End>
+Come help in the store without me
+asking occasionally, ok? Hah, just
+kidding.I know you pull your weight.<End>
+I'm on standby. Any bears show up, and
+Nozz is ready for action. Call me if you
+spot anything odd in the forest.<End>
+Man, I wish I could get my hands on a
+bazooka.
+BOOM!<End>
+This yard's a mess.<End>
+This is your front yard, Matthew.
+How about keeping it a little neater?<End>
+Man, my stiff shoulders...
+Hmm...<End>
+My shoulders get so stiff these days.
+I wanna go hunting and blow off the
+cobwebs.<End>
+Let me know if you spot anything in the
+forest. I have a feeling a new bear's
+on the prowl.<End>
+I won't let any young'uns out-hunt ME!<End>
+Matthew, don't let your guard down.
+That forest is lousy with bears!
+I smell 'em!<End>
+Such horrible things keep happening...<End>
+I see how things are.
+That bear's got people going all
+crazy-like.<End>
+Any news on another bear sighting?
+I'm ready to roll whenever.<End>
+Any bears show up, I'll pop a cap
+between their eyes!<End>
+Gah, is there no cure for the misery
+of my stiff shoulders?<End>
+Guess I'm gettin' old...
+Sigh...<End>
+Man...
+What's next, zombies?
+I don't mind going on a zombie hunt.<End>
+Strange...
+I'd prefer it if a bear showed up, gave
+me somethin' to shoot at.<End>
+Fistfighting's all about evading hits.
+Let your opponent exert himself, then
+strike!<New>
+Helpful advice, eh?<End>
+Did I ever tell you about the time I took
+down a rampaging bull with only a
+butter knife?<New>
+My past's full of heroic deeds, ya know.<End>
+Guess the year's almost over...
+In the new year, I'll teach you
+self-defense.<New>
+I learned jiu-jitsu in Brazil when I was
+younger.
+Now I'll pass my skills on to you.<End>
+You haven't helped in the shop in ages.
+Well, no time like the present. Grab an
+apron and get behind the register.<End>
+You might find out some clues
+if you go to Kathy's funeral.<End>
+Just a spot of shopping.
+Where are you going, Matthew?<End>
+I was just chatting to your uncle.
+He's such a funny man.<End>
+This is a great shop.
+Sells so many things.
+And it's always fun chatting with Nozz.<End>
+I'll do whatever I can to help Emma.<End>
+Matthew, I hope you're showing your
+uncle proper respect. You should help
+out with the store sometimes.<End>
+Is this your uncle's store?
+Seems like you sell everything here.<End>
+Guess I should rest up a little.<End>
+1 hour nap
+5 hour snooze
+Never mind<End>
+Save data?
+Save (takes one memory block)
+Don't save<End>
+Please don't remove the memory card
+or turn off the console during saving.<End>
+Save to File A
+Save to File B
+Next page<End>
+Save to File C
+Don't save
+Next page<End>
+If data is present on File A, it will be
+deleted.<New>
+OK
+Cancel<End>
+If data is present on File B, it will be
+deleted.<New>
+OK
+Cancel<End>
+If data is present on File C, it will be
+deleted.<New>
+OK
+Cancel<End>
+Data will be overwritten. Okay?
+Yes
+No<End>
+Saved data to File A.<End>
+Saved data to File B.<End>
+Saved data to File C.<End>
+Checking memory card...<End>
+Select a memory card to save to.
+Press × to cancel<End>
+Where will you save data?
+Memory card in slot 1
+Memory card in slot 2<End>
+Not formatted.
+Don't save
+Format, then save<End>
+Formatting in progress
+Please don't remove memory card.<End>
+Memory card has been removed from
+slot 2.
+Saving on slot 1.<End>
+Memory card has been removed from
+slot 1.
+Saving on slot 2.<End>
+Saving to the memory card inserted in
+slot 1.<End>
+Saving to the memory card inserted in
+slot 2.<End>
+Saving to the memory card in slot 1.
+Do not remove memory card.<End>
+Saving to the memory card in slot 2.
+Do not remove memory card.<End>
+Memory card removed
+<End>
+Not enough free blocks on memory card<End>
+Error during saving<End>
+Memory card exchanged
+<End>
+Error occurred during formatting.<End>
+Is slot 1 okay?
+OK
+Cancel<End>
+Is slot 2 okay?
+OK
+Cancel<End>
+I have to close up shop soon, Matthew.
+Tomorrow's gonna be another early
+start.<End>
+Okay.<End>
+It's closed... looks like Nozz isn't around.<End>
+I'm looking for something to decorate
+my living room.<End>
+This shop sells all kinds of things,
+doesn't it?
+I only came in to buy a lighter, though.<End>
+Erm...
+I wonder where the cigarettes are?<End>

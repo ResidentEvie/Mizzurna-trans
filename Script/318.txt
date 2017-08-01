@@ -1,0 +1,68 @@
+﻿<36 text entries>
+It's empty.<End>
+Cell Phone<End>
+Notebook<End>
+Map<End>
+Waist bag<End>
+Watch<End>
+Lighter<End>
+Emma's diary<End>
+Emma's Key<End>
+It's the key I found under the vase
+in Emma's room. It's a bit smaller than
+a regular door key.<End>
+Locker Key<End>
+It's the key to Emma's locker in the high
+school's main building.<End>
+Tape of Eternal.<End>
+The cassette tape Isabella gave to me.
+It contains a recording of Isabella's song,
+Eternal.<End>
+Floppy Disk<End>
+It's the disk I found in Emma's locker.<End>
+Disposable Camera<End>
+It's the disposable camera I found in
+Emma's locker.
+I wonder what's on the film?<New>
+I should get it developed at the photo
+shop in the central square.<End>
+Photo of No Entry Sign<End>
+Sheriff's Badge<End>
+Morgan gave this to me as proof
+I'm part of the investigation.
+It looks like an old badge. With this,<New>
+I should be able to move about the
+department freely.<End>
+Note found in Mel's room<End>
+Prophet necklace<End>
+Cougar used this 40 years ago.
+It seems to be important for the
+Death Journey Ritual.<End>
+Drugs<End>
+Drugs found in the room used by Mel
+and the others at the motel.
+It says "Epoch" on them.<New>
+Two pills in a plastic baggie. What kind
+of drugs are these? If I asked Samuel
+I bet he could find out for me.<End>
+Ring with a letter "I"<End>
+This is the ring I found in the sink at
+Emma's house.
+There's an initial I engraved on it.<End>
+Kathy's note<End>
+Cohen's envelope<End>
+This is the envelope Cohen asked me
+to get. On the front, it says
+"Project Mizzurna".<New>
+"Mizzurna"...
+Was the military doing something
+secret in this town?<End>
+Cigarettes<End>
+"Blue in the Face" brand cigarettes.
+...Just one pack.
+A popular brand amongst smokers.<New>
+I bet someone who likes to smoke would
+appreciate these.<End>
+Lodge key<End>
+It's the key to Cohen's lodge.<End>
+Motel key<End>
