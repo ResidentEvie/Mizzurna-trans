@@ -755,7 +755,7 @@ catch our breath...
 But this isn't gonna be an easy case<New>
 to solve.<End>
 Sigh...
-No, this won't do!ti
+No, this won't do!
 I've got to keep it together!<End>
 Sigh... If I don't get things solved soon,
 I'll totally miss that movie.
