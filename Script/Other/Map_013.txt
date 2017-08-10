@@ -150,8 +150,8 @@ Teach me, Sensei
 Uh, no thanks.<End>
 Weakling!<End>
 You're going to give up?
-Sloppy!
-I am disappointed.<End>
+I'm just warming up!
+I can't beat you...<End>
 No, no, no!
 You have no fire!
 You must practice!<End>
