@@ -437,7 +437,7 @@ Just nothin' with booze.<End>
 What, you want more food?
 
 My stuff's that good, huh?<End>
-Hey!!!<End>
+There!<End>
 You got no money?!
 
 This ain't a charity, kid!<End>
